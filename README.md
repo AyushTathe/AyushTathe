@@ -18,7 +18,7 @@ A driven **Computer Engineering student** with expertise in **Full-Stack Develop
 - **LinkedIn:** [Ayush Tathe](https://www.linkedin.com/in/ayush-tathe-777429263/)   
 - **LeetCode:** [Profile](https://leetcode.com/u/AyushTathe/)
 - **GitHub:** [AyushTathe](https://github.com/AyushTathe) 
-- **Portfolio:** [AyushTathe](#) 
+- **Portfolio:** [AyushTathe](https://ayushtathe.netlify.app/) 
 
 <!--
 **AyushTathe/AyushTathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
